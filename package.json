@@ -1,0 +1,24 @@
+{
+  "name": "html-utils",
+  "version": "0.1.0",
+  "description": "Tools for parsing, traversing, building, etc, html strings",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ezakto/html-utils.git"
+  },
+  "keywords": [
+    "html",
+    "json",
+    "parse",
+    "stringify",
+    "string",
+    "serialize"
+  ],
+  "author": "Nicolás Arias",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ezakto/html-utils/issues"
+  },
+  "homepage": "https://github.com/ezakto/html-utils#readme"
+}
